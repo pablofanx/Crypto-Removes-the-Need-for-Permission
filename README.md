@@ -4,3 +4,5 @@ One of the most misunderstood aspects of crypto is decentralization. It is often
 
 Liquidity is another critical factor in the crypto ecosystem. It determines how easily assets can be bought or sold without affecting price significantly. 
 Instead of relying on external guarantees, users must rely on their own understanding and judgment. This can be empowering, but it also 
+introduces uncertainty. Learning through experience becomes part of the process.
+
