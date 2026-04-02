@@ -5,4 +5,5 @@ One of the most misunderstood aspects of crypto is decentralization. It is often
 Instead of relying on external guarantees, users must rely on their own understanding and judgment. This can be empowering, but it also 
 introduces uncertainty. Learning through experience becomes part of the process.
 
-The concept of trust changes in crypto. Instead of trusting institutions, users trust systems that can be verified. 
+The concept of trust changes in crypto. Instead of trusting institutions, users trust systems that can be verified. This does not eliminate risk, but it changes where that risk resides. Trust moves from people to protocols, from promises to mathematics.
+
